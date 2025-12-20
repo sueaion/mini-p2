@@ -1,6 +1,23 @@
+# 랜딩페이지 프로젝트
+
+HTML과 CSS를 활용하여 웹표준과 시멘틱 마크업을 고려한 랜딩페이지를 제작한 프로젝트입니다.  
+피그마 시안을 기반으로 레이아웃을 구현하고, 반응형 및 접근성을 고려하여 구성했습니다.
 
 ---
 
+## 🔗 배포 링크
+- https://sueaion.github.io/mini-p2/
+
+---
+
+## 📁 폴더 구조
+mini-p2/
+├─ index.html
+├─ styles/
+│ └─ style.css
+├─ images/
+│ └─ (이미지 파일들)
+└─ README.md
 ## 🛠 사용 기술
 - HTML5
 - CSS3 (Flexbox)
